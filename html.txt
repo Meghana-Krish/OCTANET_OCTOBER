@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html len="en">
+<head>
+  <meta charset="UTF-8">
+  <title>ICE CREAM</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+      </head>
+<body>
+  <div class="background"></div>
+      
+     
+  <div class="wrapper">
+    <nav class="navbar">
+      <div class="logo"><h2>&nbsp;&nbsp;&nbsp;&nbsp;FrostyFusions</h2></div>
+      
+        <ul>
+          
+          <li><a href="#">Home</a></li>
+          <li><a href="#">About</a></li>
+          <li><a href="#">Product</a></li>
+          <li><a href="#">Services</a></li>
+          <li><a href="#">contact</a></li>
+          <li><a href="#">Feedback</a></li>
+        </ul>
+    </nav>
+      <div class="center">
+        
+        <h1><br><br><br>ᴡʜᴇʀᴇ ғʟᴀᴠᴏʀs ғᴜsᴇ</h1>
+      <h2>ᴀɴᴅ ғʀᴏsᴛʏ ᴅʀᴇᴀᴍs ᴄᴏᴍᴇ ᴛʀᴜᴇ</h2>
+        
+        <div class="buttons">
+          <button>Explore More</button>
+          <button class="btn">Buy now</button>
+          </div>
+        </div>
+  
+    </body>
+    </html>
