@@ -8,7 +8,7 @@
 .background{
   width:100%;
   height:800px;
-  background-image:url("https://images6.alphacoders.com/132/1323943.png");
+  background-image:url("https://github.com/Meghana-Krish/OCTANET_OCTOBER/blob/06f4652284779a8ff973776e5c475a4530e8547d/iceimage.jpg");
   background-repeat:no-repeat;
   background-size:cover;
   background-position:center;
